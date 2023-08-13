@@ -35,5 +35,5 @@ To get started with the project, follow these steps:
 
 ## License
 
-All source code included in this project is licensed under the [MIT License](LICENSE).
+All source code included in this project is licensed under the [GPL License](LICENSE).
 
